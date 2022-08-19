@@ -59,3 +59,29 @@ while True:
 	ret = client1.publish(topic,payload=message,qos=2)
 	print(f'message: {message}')
 	sleep(1)
+
+def initSensor():
+	#GPIO Mode (BOARD / BCM)
+	GPIO.setmode(GPIO.BCM)
+	
+def getSensor():
+    DHT_SENSOR = Adafruit_DHT.DHT11
+    DHT_PIN = 4
+    humidity = None
+    temperature = None
+
+    while temperature is None:
+        humidity, temperature = Adafruit_DHT.read(DHT_SENSOR, DHT_PIN)
+        time.sleep(1)
+
+    return temperature
+
+
+initSensor()
+    
+
+while True:
+	message = getSensor()
+	ret = client1.publish(topic,payload=message,qos=2)
+	print(f'message: {message}')
+	sleep(1)
