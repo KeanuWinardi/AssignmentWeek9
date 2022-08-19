@@ -9,14 +9,11 @@ Upload screenshot hasil dashboard kalian beserta dengan code python ke dalam rep
 
 Jawaban:
 
-![dashboard](https://nodered.org/images/dashboardl.png)
-
-Read more : https://flows.nodered.org/node/node-red-dashboard.
 
 * ![WhatsApp Image 2022-08-19 at 06 28 56](https://user-images.githubusercontent.com/107297270/185629861-c8148192-084e-4eaa-bd4e-3f3e4878e802.jpeg)
 
 
-* ![WhatsApp Image 2022-08-17 at 07 40 12](https://user-images.githubusercontent.com/107297270/185623444-a69480a2-04ad-4a7e-b12e-984b5802a385.jpeg)
+* ![WhatsApp Image 2022-08-19 at 06 29 34](https://user-images.githubusercontent.com/107297270/185630203-6a779c6f-7952-4be5-9e4a-0c109feb5a58.jpeg)
 
 
 
