@@ -13,7 +13,8 @@ Jawaban:
 
 Read more : https://flows.nodered.org/node/node-red-dashboard.
 
-* ![WhatsApp Image 2022-08-17 at 07 35 45](https://user-images.githubusercontent.com/107297270/185623950-a3913fb3-a993-4dbc-8608-38a6c7764a36.jpeg)
+* ![WhatsApp Image 2022-08-19 at 06 28 56](https://user-images.githubusercontent.com/107297270/185629861-c8148192-084e-4eaa-bd4e-3f3e4878e802.jpeg)
+
 
 * ![WhatsApp Image 2022-08-17 at 07 40 12](https://user-images.githubusercontent.com/107297270/185623444-a69480a2-04ad-4a7e-b12e-984b5802a385.jpeg)
 
